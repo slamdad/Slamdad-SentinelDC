@@ -1,5 +1,8 @@
 # Slamdad SentinelDC: Secure Enterprise Data Center
 
+<img width="1423" height="776" alt="image" src="https://github.com/user-attachments/assets/c4d06bbc-c8d7-4e5e-81af-389cdb2a98a0" />
+
+
 A comprehensive Cisco Packet Tracer lab simulating a secure enterprise data center network with DMZ segmentation, stateful firewall inspection, and SOC monitoring. 
 
 ## Architecture Overview
@@ -67,3 +70,6 @@ The network is validated against the following policy matrix:
 
 - `.pkt` file: The complete, fully functional Cisco Packet Tracer topology.
 - `README.md`: Network documentation and policy overview.
+
+<img width="43" height="91" alt="image" src="https://github.com/user-attachments/assets/04ea7529-5f35-4cbe-988b-5aacbec7a943" />
+
