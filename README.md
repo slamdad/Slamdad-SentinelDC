@@ -71,6 +71,7 @@ The network is validated against the following policy matrix:
 - `.pkt` file: The complete, fully functional Cisco Packet Tracer topology.
 - `README.md`: Network documentation and policy overview.
 
-<img width="1423" height="776" alt="image" src="https://github.com/user-attachments/assets/c7fe53bc-f164-421e-a9ed-45358b2277b4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/af5a89f1-007c-47d6-817e-3ef7679f177f" />
+
 
 
